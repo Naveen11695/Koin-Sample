@@ -6,7 +6,7 @@
 
         <variable
             name="user"
-            type="com.ttn.advance_koin.model.entity.GithubUser" />
+            type="com.local.advance_koin.model.entity.GithubUser" />
     </data>
 
     <androidx.cardview.widget.CardView xmlns:tools="http://schemas.android.com/tools"
